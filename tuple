@@ -1,0 +1,25 @@
+#Задання
+empty_tuple = ()
+print(empty_tuple)
+
+one_name = 'Alex',
+print (one_name)
+
+name_tuple = 'Alex', 'Helen', 'Olga'
+print (name_tuple)
+
+name_tuple = ('Alex', 'Helen', 'Olga')
+a, b, c = name_tuple
+print(a)
+print(b)
+print(c)
+
+a = 1
+b = 2
+a, b = b, a
+print(a)
+print(b)
+
+name_list = ['Alex', 'Helen', 'Olga']
+q = tuple(name_list)
+print (q)
