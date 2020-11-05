@@ -22,3 +22,6 @@ letters_list =['a', 'b', 'c', 'd', 'e']
 
 print(letters_list.pop())
 print(letters_list)
+
+
+#генератор списків
