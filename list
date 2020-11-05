@@ -1,0 +1,24 @@
+empty_list = 
+empty_list = 
+number_list = [1, 2, 3, 4, 5]
+week_days = ['Monday', 'Tuesday', 'Wednesday', 'Thursday',
+'Friday']
+print(empty_list)
+print(number_list)
+print(week_days)
+
+# Рядок перетвориться в список, що складається з односимвольних рядків
+q = list('cat')
+print(q) #['c', 'a', 't']
+
+
+letters_list =['a', 'b', 'c', 'd', 'e']
+# Виведення елементів перших трьох елементів
+#Кожен непарний елемент
+#Інверсія списку
+#вставити будь-який елемент в кінець списку
+#видалити перший елемент зі списку
+#вставити елемент 'a' після елементу 'b'
+
+print(letters_list.pop())
+print(letters_list)
