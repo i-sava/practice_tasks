@@ -1,5 +1,5 @@
-empty_list = 
-empty_list = 
+empty_list = []
+empty_list = list()
 number_list = [1, 2, 3, 4, 5]
 week_days = ['Monday', 'Tuesday', 'Wednesday', 'Thursday',
 'Friday']
@@ -13,6 +13,7 @@ print(q) #['c', 'a', 't']
 
 
 letters_list =['a', 'b', 'c', 'd', 'e']
+print(letters_list[0:2])
 # Виведення елементів перших трьох елементів
 #Кожен непарний елемент
 #Інверсія списку
